@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Besos de fuego
+
+This log tracks the cryptographic history and versioning for the song **Besos de fuego** (besos-de-fuego).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-16T13:09:58.364377 | `v1` | `86e75c66aeb543ccd1e5123ded6e495d018dc514d29d697a41524c0d2805178d` | `6ebf8b1ee20c3555a3cc85cb9bb778b0d3e310415db9ac1b5f04b5d12fb67b64` | `2026-06-16_besos-de-fuego-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
