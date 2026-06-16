@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/besos-de-fuego/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Besos de fuego](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/besos-de-fuego/) |
+| **Get License** | [Request Licensing for Besos de fuego](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/besos-de-fuego/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Tus besos de fuego me queman la piel
+> Esta noche es nuestra, lo sabes muy bien
+> Bailando en la sombra, me haces enloquecer
+> Un fuego tan lento que quiero encender
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
